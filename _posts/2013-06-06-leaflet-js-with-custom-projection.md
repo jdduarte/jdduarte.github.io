@@ -17,7 +17,7 @@ They have a very good documentation which allowed me to set up a map pretty quic
 
     Projected bounds does not match grid at zoom 0
 
-[I asked for help on the Proj4Leaflet Github page](https://github.com/kartena/Proj4Leaflet/issues/31) and [Per Liedman](https://github.com/perliedman) quickly helped me solving the issue. My upper bounds were wrong adn he helped me recalculating them to the correct value. Thanks Per!
+[I asked for help on the Proj4Leaflet Github page](https://github.com/kartena/Proj4Leaflet/issues/31) and [Per Liedman](https://github.com/perliedman) quickly helped me solving the issue. My upper bounds were wrong and he helped me recalculating them to the correct value. Thanks Per!
 
 After that the map was working perfectly!
 
